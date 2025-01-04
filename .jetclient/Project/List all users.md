@@ -1,0 +1,10 @@
+```toml
+name = 'List all users'
+method = 'GET'
+url = '{{baseUrl}}/users'
+sortWeight = 3000000
+id = '4741d388-e87e-4634-a88f-50e5612c9f45'
+
+[auth.bearer]
+token = 'eyJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJDbG9uZVR3ZWV0Iiwic3ViIjoiOGFmMmEyNGItOWVhOS00NmJiLWE0NjktOWUwNTFiMmE5OWM5IiwiZXhwIjoxNzM1Njg2MjQyLCJpYXQiOjE3MzU2ODU5NDIsInNjb3BlIjoiYWRtaW4ifQ.rYcp2K33kdrbm1n7jlrSAZa7SH9rLoQYb40OoqK5h1nC42XKxXpauQC-nD8LZifuPraBB-N2gJTdC0NcpHJEhti_6ADPU7khdRUJXCOngTdbhaKMMiLv1XCJVnRhmo89PX8K8uXtzlU_HjWtvEBtCMTjxq_VvH238sAehSB9SCLdIMjozfXW_VXBeKvAoiAmZ9Wb0JPz3hpfi1Cl452-bZVjD6KzDu1PuzQXL1P14LpFgeumt9e4StEvFhVN0jrzEsHsB6JUnF9NVzMK-QKZrZEM05Wj0_GH0l6X7ifnNx0I3r7hg3_1rnp2_agywE10ifSqBHrcVo4p2X9GPA2nlg'
+```

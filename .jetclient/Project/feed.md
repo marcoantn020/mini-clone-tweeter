@@ -1,0 +1,10 @@
+```toml
+name = 'feed'
+method = 'GET'
+url = '{{baseUrl}}/tweets/feed'
+sortWeight = 6000000
+id = 'f614beef-2adb-402f-9532-59d287f93671'
+
+[auth.bearer]
+token = 'eyJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJDbG9uZVR3ZWV0Iiwic3ViIjoiMmZmZjE3NDgtOTJiMS00NzAwLWJlZjAtZjQwYzUyZDU4ZDg3IiwiZXhwIjoxNzM1NzMwNjA3LCJpYXQiOjE3MzU3MDA2MDcsInNjb3BlIjoiYmFzaWMifQ.G58J6OCNqZEijuxy58SYD7rRw7GIJVbBPikZfJzbRSKLrQ9LTO27ErK_aSnlqTZ-4h_l-B72du2OZBXAd8wi9zVsngqJLNuEgzbldYJOTIE1bCEdtpp-NJi5g8B6RekOEvBcxVwRNyHlbXvPYoPagWIARvbCTJkYB-jB8STNv6PyaqFBTuLcb-Wqa7higIVUxHjgJqqkYurqvaLtMZqlROHMvj0l03_FsVYjTnlneZ-nhTzvn_-8aGj1X9Jlb9kqARNiTqwTiDvMUNyY-BNedN4TcUTa3_pQekZhhqKhlyMyqKIJquLUxufOz83UFZUqNxtfl4ga9s7zabysLywfPQ'
+```

@@ -1,0 +1,10 @@
+```toml
+name = 'Deletar Tweet'
+method = 'DELETE'
+url = '{{baseUrl}}/tweets/14'
+sortWeight = 5000000
+id = '81dff74a-992a-4128-a16a-c2ca5bf964ea'
+
+[auth.bearer]
+token = 'eyJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJDbG9uZVR3ZWV0Iiwic3ViIjoiMmZmZjE3NDgtOTJiMS00NzAwLWJlZjAtZjQwYzUyZDU4ZDg3IiwiZXhwIjoxNzM1NzI5MzU5LCJpYXQiOjE3MzU2OTkzNTksInNjb3BlIjoiYmFzaWMifQ.EHWiGp65STxRcR5-etrWapLPAg5AgVRuGDxcv6b4ncn2lPpA-PV6ud2k5r-pAV83yb8xDn2Ge1u30Mik0ZQjxkKXaKeoQntip0BTxLqSt7YtlrAll6IdH3vEp0ylvm1OP6Z9RlpsKZoQXlxG8kQjybDMvuWOP1QtmlD8YA_samRYI89L0spJ-AfxJ76pjXo50NTwA9VWOfpdPBHabs52zT1x7CmE4FSWq9OAZjJLWYic7RDLg2NUX61-c4kpiREjiZKh-x5ChVgrNDYr34yPBniqRlW1X52DNHg5qs07-iM3us90EenDl90YK0vPccolrKQfOqCTJG9jnPDTXCKoyA'
+```
